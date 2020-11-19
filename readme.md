@@ -23,7 +23,7 @@ LICENSE: [MIT](./license.md "Читать")
    * [git status](./11git-status.md "Изучить")
    * [git log](./12git-log.md "Изучить")
    * [git show](./13git-show.md "Изучить")
-5. Видео
+5. [Видео](./14video.md)
 
 
 ---
