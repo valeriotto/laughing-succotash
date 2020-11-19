@@ -14,6 +14,11 @@ LICENSE: [MIT](./license.md "Читать")
    * [git commit](./4git-commit.md "Изучить")
    * [git clone](./5git-clone.md "Изучить")
 3. Работа с удалённым репозиторием
+   * [git remote add](./6git-remote-add.md "Изучить")
+   * [git fetch](./7git-fetch.md "Изучить")
+   * [git merge](./8git-merge.md "Изучить")
+   * [git pull](./9git-pull.md "Изучить")
+   * [git push](./10git-push.md "Изучить")
 4. Получение данных о состоянии репозитория
 5. Больше видео на ютуб возможно
 

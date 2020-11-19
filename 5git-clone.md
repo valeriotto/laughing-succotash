@@ -11,4 +11,4 @@
 >```git clone https://github.com/valeriotto/php7```
 
 ---
-[Следующий раздел>](./5git-clone.md "Next")
+[Следующий раздел>](./6git-remote-add.md "Next")
