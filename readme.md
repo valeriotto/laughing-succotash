@@ -20,7 +20,10 @@ LICENSE: [MIT](./license.md "Читать")
    * [git pull](./9git-pull.md "Изучить")
    * [git push](./10git-push.md "Изучить")
 4. Получение данных о состоянии репозитория
-5. Больше видео на ютуб возможно
+   * [git status](./11git-status.md "Изучить")
+   * [git log](./12git-log.md "Изучить")
+   * [git show](./13git-show.md "Изучить")
+5. Видео
 
 
 ---

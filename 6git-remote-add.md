@@ -11,4 +11,4 @@
 git remote add origin https://github.com/valeriotto/task4_14_2
 ```
 ---
-[Следующий раздел>](./7git-fetch.md "Next")
+[Следующий>](./7git-fetch.md "Next")
